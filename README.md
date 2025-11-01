@@ -1,6 +1,11 @@
 # Agent-less Windows System Vulnerability and Network Scanner
+STEP 1 -  DOWNLOAD THE  .BAT FILE (NO INSTALLATION)
+STEP 2 -  SAVE THIS .BAT FILE INSIDE A NEW FOLDER IN YOUR PC
+STEP 3 -  RUN IT AS ADMINISTATOR 
+STEP 4 -  CLOSE THE CMD AND GO AGAIN TO THE SAME NEW FOLDER
+STEP 5 -  YOU CAN SEE THE REPORT THAT SCANNED
 
-This is an open-source batch script designed to scan and collect system and network information from a Windows machine without requiring any external agents or software installations. The script gathers a wide range of data, including system information, installed software, network configurations, and more, which can be useful for vulnerability assessment and network analysis.
+This is an open-source batch script designed to scan and collect system and network information from a Windows machine without requiring any external agents or software installations. The script gathers a wide range of data, including system information, installed software, network configurations, and more, which can be useful for vulnerability assessment and network analysis . developed by Navaneethan.P
 ## Features
 
 The script collects various system and network details, including but not limited to:
